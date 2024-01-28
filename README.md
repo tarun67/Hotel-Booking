@@ -46,12 +46,12 @@ username: user@gmail.com
 
 password: 123456
 
-<img src="https://github.com/tarun67/Hotel-Booking/assets/147790450/4f76980c-4e10-4136-ab38-9b96fb3f08e0" />
+<img src="https://github.com/tarun67/Hotel-Booking/assets/147790450/643a44dd-5f00-442c-b4c8-60f87087558a" />
 
 #### Profile
 
-<img src="https://github.com/tarun67/Hotel-Booking/assets/147790450/78e2ab3f-c9aa-4430-8037-dce28c6caa92" />
+<img src="https://github.com/tarun67/Hotel-Booking/assets/147790450/2ef94a1f-32e9-484d-98d4-7896998c8f78" />
 
 #### Admin Page
 
-<img src="https://github.com/tarun67/Hotel-Booking/assets/147790450/c6e7c682-ce97-4e17-8cda-8643301cfc7c" />
+<img src="https://github.com/tarun67/Hotel-Booking/assets/147790450/247fd339-95cc-41ef-92f7-d5efab7b8235" />
